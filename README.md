@@ -12,7 +12,9 @@ composer require senishinaleksey/validator
 
 ## Использование
 
-<?php  
-  
+```php
+<?php
+
 $email = 'email@example.com';
 SenishinAleksey\Validator\EmailValidator::isValid($email); // true
+```
