@@ -1,0 +1,16 @@
+{
+    "name": "senishinaleksey/validator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SenishinAleksey\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aleksey Senishin",
+            "email": "senishin@inbox.ru"
+        }
+    ],
+    "require": {}
+}
