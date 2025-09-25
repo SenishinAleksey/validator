@@ -12,5 +12,7 @@
             "email": "senishin@inbox.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
